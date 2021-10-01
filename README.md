@@ -5,4 +5,6 @@ Hi, I'm Carolina, better known as Caro. A Front-End Development student at Labor
 
 I'm a filmmaker, photographer and animal liberation activist.
 
+Contact: carolina.garciameneses@gmail.com
+
 
