@@ -3,8 +3,6 @@ Hello, I'm Carolina, better known as Caro. I am a non-binary person and my prono
 - 💻 Working with: JavaScript, NodeJS, HTML and CSS.
 - 🛠 Other tools: Git, Photoshop, Premiere, Figma, Notion, Trello.
 
-I'm a filmmaker, photographer and animal liberation activist.
-
 Contact: carolina.garciameneses@gmail.com
 
 
