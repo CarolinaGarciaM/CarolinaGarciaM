@@ -2,7 +2,7 @@ Hola, soy Carolina, más conocida como Caro. Soy una persona no binaria y mis pr
 Me importa muchísimo los espacios inclusivos y respetuosos, tanto en mi ámbito personal como laboral. Si quieres que forme parte de tu equipo de trabajo, la inclusividad y el respeto son mis condiciones más urgentes e impostergables.
 
 - 💻 Trabajo con: JavaScript, NodeJS, HTML and CSS.
-- 🛠 Otras herramientas: Git, Photoshop, Premiere, Figma, Notion, Trello.
+- 🛠 Otras herramientas: Git, Photoshop, Premiere, Figma, Notion, Trello y otros programas de post-producción.
 
 Contacto: carolina.garciameneses@gmail.com
 
